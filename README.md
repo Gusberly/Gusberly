@@ -4,7 +4,7 @@
 
 ### ⭐ Languajes:
 
-##HTML5, CSS, JavaScript, React, Redux, Node.js, Express, PostgreSQL, Sequelize.
+HTML5, CSS, JavaScript, React, Redux, Node.js, Express, PostgreSQL, Sequelize.
 
 
   
