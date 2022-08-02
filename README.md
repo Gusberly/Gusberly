@@ -1,9 +1,8 @@
-### Hi there 👋
+### Hello I´m Gusberly 👋
 
-<!--
-**Gusberly/Gusberly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![helloworld](https://user-images.githubusercontent.com/92122358/182266698-eab9ea7c-6982-4529-aad9-8ab0285b48e0.png)
 
-Here are some ideas to get you started:
+### Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
