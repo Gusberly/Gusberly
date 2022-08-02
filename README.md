@@ -6,8 +6,7 @@
 
 ## ⭐ Languajes:
 
-HTML5 CSS JavaScript Node.js React Redux Slack Notion
-PostgreSQL Microsoft-SQL-Server Git GitHub Visual Studio 
+HTML5, CSS, JavaScript, React, Redux, Node.js, Express, PostgreSQL, Sequelize.
 
   
   
