@@ -1,6 +1,7 @@
 ### Hola, Soy Gusberly 👋
 
-![full stack](https://user-images.githubusercontent.com/92122358/182464530-fbe2321c-64ac-403c-ad80-1fe6d10d110f.png)
+![full stack](https://user-images.githubusercontent.com/92122358/182464748-90163f60-ee30-48f0-9488-f102c3b1bf12.png)
+
 
 ### **Full Stack Developer** 
 
