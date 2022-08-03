@@ -41,3 +41,9 @@ Los estilos fueron aplicados con CSS, sin el uso de librerias externas.
 ![home](https://user-images.githubusercontent.com/92122358/182722732-f2e34c3c-c827-4aff-a644-cf71b9657069.png)
 ![Creacion](https://user-images.githubusercontent.com/92122358/182722961-497fa2d1-8f73-4ad6-b515-2744969da4e3.png)
 ![detalles](https://user-images.githubusercontent.com/92122358/182722973-5b9bfbd9-7b95-4d94-96d2-7725d7b38850.png)
+
+# Proyecto Grupal ScriptMusic:
+
+
+
+
