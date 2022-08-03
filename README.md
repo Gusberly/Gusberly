@@ -12,7 +12,7 @@
 
 🍀 Disfruto mucho aprendiendo y todas las cosas por aprender me mantienen motivada.
 
-### Tecnologias:
+# Tecnologias:
 
 ### JavaScript, HTML, CSS, React, Redux, Node.js, Express, SQL, PostgresSQL, Sequelize 
 
