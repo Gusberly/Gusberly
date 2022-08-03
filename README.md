@@ -14,9 +14,10 @@
 
 ⭐ Tecnologias:
 
+![javascript](https://user-images.githubusercontent.com/92122358/182709860-6e7976d4-d0f5-4026-a7bf-586f47a76105.jpg)
 ![react](https://user-images.githubusercontent.com/92122358/182709519-e27afdb0-5434-4990-9066-5bc716fa8944.svg)
-    
-     
+![redux](https://user-images.githubusercontent.com/92122358/182709640-4611c6c3-a0bd-4f51-ae18-80bbf455d050.svg)
+
  
 
 
