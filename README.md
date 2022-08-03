@@ -16,7 +16,7 @@
 
 ### JavaScript, HTML, CSS, React, Redux, Node.js, Express, SQL, PostgresSQL, Sequelize 
 
-#Proyecto Individual Pokemon:
+# Proyecto Individual Pokemon:
 
 Se trata del desarrollo de una SPA(Single Page Application) en donde se puede ver e interactuar con 40 pokemons extraídos desde la pokeapi
 
