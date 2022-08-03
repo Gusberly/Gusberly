@@ -15,10 +15,3 @@
 # Tecnologias:
 
 ### JavaScript, HTML, CSS, React, Redux, Node.js, Express, SQL, PostgresSQL, Sequelize 
-
- 
-
-
-
-
-
