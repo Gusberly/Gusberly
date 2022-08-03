@@ -14,7 +14,7 @@
 
 ### Tecnologias:
 
-### JavaScrip, HTML, CSS, React, Redux, Node.js, Express, SQL, PostgresSQL, Sequelize 
+### JavaScript, HTML, CSS, React, Redux, Node.js, Express, SQL, PostgresSQL, Sequelize 
 
  
 
