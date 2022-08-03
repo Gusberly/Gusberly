@@ -2,7 +2,7 @@
 
 ![full stack](https://user-images.githubusercontent.com/92122358/182707751-278370a7-a50a-4c2a-ae5b-e11144044cd1.png)
 
-### Hola, Soy Gusberly 👋
+# Hola, Soy Gusberly 👋
 
 ⭐ Soy desarrolladora full stack ✨
 
