@@ -12,9 +12,10 @@
 
 🍀 Disfruto mucho aprendiendo y todas las cosas por aprender me mantienen motivada.
 
-###⭐ Tecnologias:
+⭐ Tecnologias:
 
-     
+![react](https://user-images.githubusercontent.com/92122358/182709519-e27afdb0-5434-4990-9066-5bc716fa8944.svg)
+    
      
  
 
