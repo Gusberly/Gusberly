@@ -1,6 +1,5 @@
 
-
-![full stack](https://user-images.githubusercontent.com/92122358/182707751-278370a7-a50a-4c2a-ae5b-e11144044cd1.png)
+![full stack](https://user-images.githubusercontent.com/92122358/182977324-6d116fb8-0005-4eb4-b5f7-061dbe3a7d77.png)
 
 <h1 align="center">Hola 👋 Soy Gusberly</h1>
 <h3 align="center">Desarrolladora Full Stack Developer</h3>
