@@ -2,7 +2,7 @@
 ![full stack](https://user-images.githubusercontent.com/92122358/182977324-6d116fb8-0005-4eb4-b5f7-061dbe3a7d77.png)
 
 <h1 align="center">Hola 👋 Soy Gusberly</h1>
-<h3 align="center">Desarrolladora Full Stack Developer</h3>
+<h3 align="center">Desarrolladora Full Stack</h3>
 
 🖥️ Estoy en busca de nuevos desafíos y proyectos para aplicar los conocimientos adquiridos, seguir aprendiendo cada día más sobre el mundo IT, y sobre todo con las ganas a tope de ser la mejor en lo que hago.
 
